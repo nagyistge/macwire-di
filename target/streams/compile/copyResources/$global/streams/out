@@ -1,0 +1,3 @@
+[0m[[0mdebug[0m] [0mCopy resource mappings: [0m
+[0m[[0mdebug[0m] [0m	(/Users/sgarg/development/code/sameer/learning-scala/scala-dependency-injection/macwire-di/conf/application.conf,/Users/sgarg/development/code/sameer/learning-scala/scala-dependency-injection/macwire-di/target/scala-2.11/classes/application.conf)[0m
+[0m[[0mdebug[0m] [0m	(/Users/sgarg/development/code/sameer/learning-scala/scala-dependency-injection/macwire-di/conf/routes,/Users/sgarg/development/code/sameer/learning-scala/scala-dependency-injection/macwire-di/target/scala-2.11/classes/routes)[0m
